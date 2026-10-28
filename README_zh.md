@@ -6,14 +6,23 @@
 
 *论文引用，小处严谨。*
 
-[![在线体验](https://img.shields.io/badge/在线演示-citex.cosing.top-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://citex.cosing.top/)
-[![开源协议: MIT](https://img.shields.io/badge/开源协议-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![React](https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-5.3-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![隐私安全: 100% 本地运算](https://img.shields.io/badge/隐私保护-100%25%20本地离线-10B981?style=for-the-badge&logo=shield&logoColor=white)](#-纯本地隐私架构)
-[![欢迎贡献](https://img.shields.io/badge/PRs-欢迎提交-brightgreen?style=for-the-badge)](https://github.com/your-username/citex/pulls)
+[![在线演示](https://img.shields.io/badge/在线体验-citex.cosing.top-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://citex.cosing.top/)
+[![GitHub Stars](https://img.shields.io/github/stars/spcity/CiteX?style=for-the-badge&logo=github&color=F59E0B&logoColor=white)](https://github.com/spcity/CiteX/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/spcity/CiteX?style=for-the-badge&logo=github&color=3B82F6&logoColor=white)](https://github.com/spcity/CiteX/network/members)
+[![开源协议: MIT](https://img.shields.io/badge/开源协议-MIT-FACC15.svg?style=for-the-badge)](LICENSE)
+[![收录期刊量](https://img.shields.io/badge/收录期刊量-20%2C448-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white)](#-核心数据指标一览)
+[![Cloudflare Pages](https://img.shields.io/badge/云端部署-Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://citex.cosing.top/)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/缩写标准-ISO_4_(LTWA)-0284C7?style=flat-square" alt="ISO 4" />
+  <img src="https://img.shields.io/badge/缩写标准-JCR_Clarivate-7C3AED?style=flat-square" alt="JCR" />
+  <img src="https://img.shields.io/badge/数据隐私-100%25%20本地运算-10B981?style=flat-square" alt="100% 本地运算" />
+  <img src="https://img.shields.io/badge/React-18.3-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-5.5-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-5.3-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/github/issues/spcity/CiteX?style=flat-square&color=10B981" alt="Issues" />
+  <a href="https://github.com/spcity/CiteX/pulls"><img src="https://img.shields.io/badge/PRs-欢迎提交-brightgreen?style=flat-square" alt="PRs Welcome" /></a>
+</p>
 [**English**](README.md) · [**简体中文**](README_zh.md)
 
 </div>
@@ -78,7 +87,7 @@ npm run build
 
 ## 📊 数据说明与免责声明
 
-- **数据来源**：本项目内嵌的 `public/journals.gz` 期刊缩写数据包含 20,000 余条学术记录，整理自公开学术标准与公共图书馆指南，包括 [ISSN LTWA 词标缩写表](https://portal.issn.org/ltwa) 与 [UBC Woodward Library 期刊缩写索引](https://woodward.library.ubc.ca/woodward/research-help/journal-abbreviations/)。
+- **数据来源**：本项目内嵌的 `public/journals.gz` 期刊缩写数据包含 20,000 余条学术记录，整理自公开学术标准与公共图书馆指南。
 - **免责声明**：CiteX 提供客观数据对照与预览。不同出版商和投稿期刊的具体要求可能存在微调，实际投稿前请务必以目标期刊最新的《作者指南》（Author Guidelines）为最终准则。
 
 ---
