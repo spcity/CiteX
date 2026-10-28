@@ -1,0 +1,23 @@
+# CiteX
+
+> CiteX is a browser-local BibTeX review tool for researchers. It helps protect title capitalization, compare journal abbreviations, and inspect every change before exporting BibTeX to LaTeX.
+
+## Main pages
+
+- [BibTeX review tool](/): Review entries in order, protect titles with double braces, compare ISO 4 and JCR abbreviations, copy `\cite{key}` labels, and export the result.
+- [Journal abbreviation search](/journal-abbreviations/): Search journal names, keywords, or abbreviations and compare ISO 4 and JCR forms.
+- [Usage guide](/guides/): Learn how title protection and journal abbreviation review work.
+- [Verification and local processing](/about-data/): Read how to verify an abbreviation against the target journal and how browser-local processing works.
+
+## Important behavior
+
+- BibTeX conversion and lookup run in the current browser.
+- The tool shows title and journal fields before applying an edit.
+- Double braces preserve capitalization that LaTeX might otherwise change.
+- ISO 4 and JCR are alternatives; the target journal's author guidelines are the final reference.
+- The tool reports duplicate citation keys but does not silently rewrite them.
+
+## Language versions
+
+- Chinese pages are available at `/` and the paths above.
+- English pages are available under `/en/` with the same path structure.
