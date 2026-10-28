@@ -89,13 +89,6 @@ Contributions are warmly welcome!
 - **Found a missing or incorrect journal abbreviation?** Please submit a Pull Request or open an Issue with the full title and official ISO 4 / JCR abbreviation.
 - **Have UI or feature suggestions?** Feel free to open a discussion!
 
----
-
-## 💗 Acknowledgement
-
-> *"A gift for xues💗"*
-
-CiteX was originally designed as a gift by an independent developer for his partner to save her time while formatting paper references. We hope it saves you valuable hours before your next submission deadline!
 
 ---
 
