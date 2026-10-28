@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/github/issues/spcity/CiteX?style=flat-square&color=10B981" alt="Issues" />
   <a href="https://github.com/spcity/CiteX/pulls"><img src="https://img.shields.io/badge/PRs-欢迎提交-brightgreen?style=flat-square" alt="PRs Welcome" /></a>
 </p>
+
 [**English**](README.md) · [**简体中文**](README_zh.md)
 
 </div>
